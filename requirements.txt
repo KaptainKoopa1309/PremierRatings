@@ -1,0 +1,6 @@
+curl_cffi
+pandas
+beautifulsoup4
+lxml
+rapidfuzz
+streamlit
